@@ -6,6 +6,22 @@ Institutional academic marks management portal for colleges and universities —
 
 **Only marks are entered manually.** All student, subject, and faculty data is imported via Excel upload or auto-generated from the database.
 
+# 🎓 Mark List Analysis ERP
+
+A full-stack ERP system for managing academic marks, faculty assignments, report generation, and examination workflows in colleges and universities.
+
+## ✨ Features
+
+- 🔐 JWT Authentication (Admin & Faculty)
+- 📂 Excel Upload for Students & Faculty
+- 👨‍🏫 Faculty Subject Assignment
+- 📝 Smart Marks Entry Portal
+- 📊 Dashboard Analytics
+- 📈 Automatic Final Mid Calculation (80% + 20%)
+- 📄 Report Generation & Review
+- 📥 Excel Export
+- 💾 MySQL Database Integration
+
 ## Tech Stack
 
 | Layer | Technologies |
