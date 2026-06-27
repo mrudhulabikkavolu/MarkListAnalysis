@@ -109,6 +109,17 @@ Faculty and students are mapped by: `academic_year` + `year` + `branch` + `semes
 | GET | /api/faculty/marks/:subjectId/:examType | Marks sheet |
 | POST | /api/faculty/marks/save | Save/submit marks |
 
+## Screenshots
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Faculty Dashboard
+![Faculty Dashboard](screenshots/faculty-dashboard.png)
+
+### Reports Module
+![Reports](screenshots/reports.png)
+
 ## Project Structure
 
 ```
