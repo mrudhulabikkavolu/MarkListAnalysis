@@ -109,16 +109,60 @@ Faculty and students are mapped by: `academic_year` + `year` + `branch` + `semes
 | GET | /api/faculty/marks/:subjectId/:examType | Marks sheet |
 | POST | /api/faculty/marks/save | Save/submit marks |
 
-## Screenshots
+## 📸 Screenshots
 
-### Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
+### 🔐 Login Page
 
-### Faculty Dashboard
-![Faculty Dashboard](screenshots/faculty-dashboard.png)
+![Login](screenshots/Login.png)
 
-### Reports Module
-![Reports](screenshots/reports.png)
+---
+
+### 📊 Admin Dashboard
+
+![Admin Dashboard](screenshots/AdminDashboard.png)
+
+---
+
+### 📁 Excel Upload Module
+
+![Excel Upload](screenshots/ExcelUploads.png)
+
+---
+
+### 📈 Analytics Dashboard
+
+![Analytics](screenshots/Analytics.png)
+
+---
+
+### 👨‍🏫 Faculty Dashboard
+
+![Faculty Dashboard](screenshots/FacultyDashboard.png)
+
+---
+
+### 📝 Marks Entry
+
+![Marks Entry](screenshots/MarksEntry.png)
+
+---
+
+### ✏️ Edit Marks Entry
+
+![Edit Marks Entry](screenshots/EditMarksEntry.png)
+
+---
+
+### 📚 Faculty History
+
+![History](screenshots/History.png)
+
+---
+
+### 📋 Assignment Review & Reports
+
+![Assignment Review](screenshots/AssignmentsReview.png)
+
 
 ## Project Structure
 
